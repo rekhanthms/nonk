@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\bin\Debug\net8.0\nonk.DAL.deps.json
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\bin\Debug\net8.0\nonk.DAL.runtimeconfig.json
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\bin\Debug\net8.0\nonk.DAL.dll
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\bin\Debug\net8.0\nonk.DAL.pdb
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.sourcelink.json
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.dll
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\refint\nonk.DAL.dll
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.pdb
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\nonk.DAL.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\nonk\nonk.DAL\nonk.DAL\obj\Debug\net8.0\ref\nonk.DAL.dll
