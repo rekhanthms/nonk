@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nonk.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2969377bc8d36311dc9057a66e18a6f9e629fccc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae38724bc9a8c4e477a2b4459f9a835693e280f")]
 [assembly: System.Reflection.AssemblyProductAttribute("nonk.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nonk.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
